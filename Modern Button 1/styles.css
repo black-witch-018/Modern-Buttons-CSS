@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align:center;
+    margin-top:20%;
+}
+.btn{
+    padding:1em 2em;
+    font-size:1.5em;
+    background: none;
+    border: 1px solid #3498db;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin:0.5em;
+}
